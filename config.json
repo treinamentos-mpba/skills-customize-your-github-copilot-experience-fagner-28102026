@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-persistence",
+      "title": "Persistência de Dados com SQLite",
+      "description": "Armazenamento de dados com SQLite em Python: criação de tabelas e operações CRUD",
+      "path": "assignments/sqlite-persistence",
+      "dueDate": "2026-11-04"
     }
   ]
 }
